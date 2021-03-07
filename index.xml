@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>titulo nuevo 2</h1>
+
+<form accept="#" method="get">
+    <input type="button" value="">         
+</form>
+
 </body>
 </html>
